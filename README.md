@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nhlamulo Evans Nkuna
 - 👀 I’m interested in Web and Mobile App Development
 - 🌱 Technologies i use Wordpress Linux HTML5 CSS3 SASS Bootstrap Laravel Php JavaScript Vue Node.js NPM Git
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...any gig whatsapp +27722355727
 - 📫 How to reach me mail me @ mavutany@gmail.com or LinedkIn https://www.linkedin.com/in/evans-nkuna-236547106/
 
 
