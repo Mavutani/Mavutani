@@ -7,7 +7,11 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,laravel,java,sql,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,azure,aws,sql,php,laravel,flutter,dart,sharepoint,Node.js,Git,wordpress,vim" />
+  </a>
+</p>
 
 ## Github Status
 
