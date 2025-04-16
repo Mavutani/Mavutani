@@ -7,7 +7,7 @@
 
 ## Technologies
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,java,py,mysql,flutter,sqlite,md,vscode&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,laravel,java,sql,flutter&perline=3)](https://skillicons.dev)
 
 ## Github Status
 
